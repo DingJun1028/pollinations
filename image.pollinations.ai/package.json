@@ -33,7 +33,7 @@
     "file-type": "^19.4.0",
     "form-data": "^4.0.0",
     "install": "^0.13.0",
-    "jimp": "^0.16.2",
+    "jimp": "^0.22.12",
     "lodash.memoize": "^4.1.2",
     "memoize-fs": "^2.2.0",
     "mjpeg-server": "^0.3.1",
