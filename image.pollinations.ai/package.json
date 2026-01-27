@@ -39,7 +39,7 @@
     "mjpeg-server": "^0.3.1",
     "node-fetch": "^2.7.0",
     "node-stream-zip": "^1.15.0",
-    "npm": "^9.7.1",
+    "npm": "^11.6.1",
     "p-queue": "^7.3.4",
     "papaparse": "^5.4.1",
     "ramda": "^0.29.1",
