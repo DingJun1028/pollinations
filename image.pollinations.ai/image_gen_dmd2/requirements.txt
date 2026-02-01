@@ -1,4 +1,4 @@
-torch==2.4.1
+torch==2.10.0
 transformers
 xformers
 diffusers
@@ -9,3 +9,5 @@ fastapi
 opencv-python
 hidiffusion
 compel
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
+python-multipart>=0.0.22 # not directly required, pinned by Snyk to avoid a vulnerability
